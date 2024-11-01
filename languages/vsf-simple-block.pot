@@ -1,0 +1,575 @@
+"Project-Id-Version: VSF Simple Block V1.0.X\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-27 17:56-0000\n"
+"PO-Revision-Date: 2011-02-27 17:56-0000\n"
+"Last-Translator: Victoria Scales <victoriaonline@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+
+#: vsf_simple_block_import.php:27
+msgid "The root node is not correct"
+msgstr ""
+
+#: vsf_simple_block_import.php:79
+msgid "There were %d errors during import."
+msgstr ""
+
+#: vsf_simple_block_import.php:79
+#: vsf_simple_block_import.php:83
+msgid "Info:"
+msgstr ""
+
+#: vsf_simple_block_import.php:83
+msgid "There was 1 error during import."
+msgstr ""
+
+#: vsf_simple_block_import.php:90
+msgid "Successfully imported %d rules"
+msgstr ""
+
+#: vsf_simple_block_import.php:94
+msgid "No rules to import.  Database already contains all rules in file."
+msgstr ""
+
+#: vsf_simple_block_import.php:98
+msgid "Successfully imported 1 filter"
+msgstr ""
+
+#: vsf_simple_block_rules.php:89
+msgid "The quantity node is not correct"
+msgstr ""
+
+#: vsf_simple_block_rules.php:94
+msgid "The rules node is not correct"
+msgstr ""
+
+#: vsf_simple_block_rules.php:101
+msgid "The rule instance node is not correct"
+msgstr ""
+
+#: vsf_simple_block_rules.php:112
+msgid "The url quantity node is not correct"
+msgstr ""
+
+#: vsf_simple_block_rules.php:117
+msgid "The url rules node is not correct"
+msgstr ""
+
+#: vsf_simple_block_rules.php:124
+msgid "The url rule instance node is not correct"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:21
+msgid "Failed to update bounce address, cannot use blank address"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:48
+msgid "Failed to update table row quantity as value was outside range 10 - 100000"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:54
+msgid "Updated settings"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:66
+msgid "General Settings"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:68
+msgid "Bounce address"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:69
+msgid "E.g. http://www.google.com"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:72
+msgid "Show"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:72
+msgid "items in table"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:74
+msgid "Update General Settings"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:82
+msgid "Auto block Enabled:"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:83
+msgid "Max number of hits in"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:84
+msgid "1 minute"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:85
+msgid "2 minutes"
+msgstr ""
+
+#: vsf_simple_block_settings_admin.php:86
+msgid "5 minutes"
+msgstr ""
+
+#: vsf_simple_block_setup.php:586
+msgid "VSF Simple Block Options"
+msgstr ""
+
+#: vsf_simple_block_setup.php:586
+msgid "VSF Simple Block"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:98
+msgid "Error: There was a problem uploading the filter ip file.  Please try again."
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:104
+msgid "File type is not correct!"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:108
+msgid "File size is too large.  File needs to be less than 100kb!"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:162
+msgid "Options"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:197
+msgid "View"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:200
+msgid "Block Records"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:201
+msgid "Filter Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:202
+msgid "Block Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:203
+#: vsf_simple_block_spidertrap_admin.php:27
+msgid "Spider Trap"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:211
+msgid "Filter User Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:212
+msgid "Filter URL Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:215
+msgid "Block User Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:216
+msgid "Block URL Rules"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:239
+msgid "About VSF Simple Block"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:244
+msgid "Please rate whether this plug-in works on the WordPress website to help others make an informed decision"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:258
+msgid "Import and Export Settings"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:260
+msgid "Export Settings"
+msgstr ""
+
+#: vsf_simple_block_setup_admin.php:262
+msgid "Import Settings"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:29
+msgid "What is a rougue spider?"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:30
+msgid ""
+"If you're using any plugin that shows you exactly who is visiting your site (for example vsf-simpe-stats), you will have noticed the vast number of spiders that come to your site.  \n"
+"\t\t\t\t\t\t\t Arguably the most famous of them all is the Google Bot.  A lot of them are there to provide a useful service - indexing your site to help others find it when \n"
+"\t\t\t\t\t\t\t making a search on a search engine.  But others are not.  Examples are ones that scrape your site of it's content, ones that use up bandwidth or ones \n"
+"\t\t\t\t\t\t\t that \"search\" your site at the speed of light (they should be fairly slow so as not to overwhelm your site).  Which spiders are legitimate is entirely\n"
+"\t\t\t\t\t\t\t up to you, but my pet hates are (in no particular order):"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:37
+msgid "So, how do I stop rogue spiders?"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:38
+msgid ""
+"Well, since you've downloaded this plugin, you're part way there already.  You could add keywords to the block table for every spider you don't like,\n"
+"\t\t\t\t\t\t\tbut you can also do the following:"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:42
+msgid "Add a robots.txt file to your site"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:43
+msgid "If you haven't already got a robots.txt file, create one!  Otherwise, edit your existing file to add a disallow path for /spidertrap.php and /spidertrap.html"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:44
+msgid "If you're creating a file for the first time, add the following into the file:"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:49
+msgid ""
+"The above tells all spiders with any user agent to not go to the file spidertrap.php.  Any spiders that disobey that command, I class as ones that are not \n"
+"\t\t\t\t\t\t  wanted on my site.  Save the file and upload it to the root of your web space."
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:51
+msgid "I suggest you now wait an hour before proceeding with the next part.  That will give the spiders a chance to read the robots.txt file and process the command."
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:54
+msgid "Add a spider trap link to your template"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:55
+msgid ""
+"Now you will need to place the below link somewhere on the main template page that will act as bait to rogue spiders.  The following link has javascript to \n"
+"\t\t\t\t\t\t  prevent users from being able to click on the link, but not spiders.  Ideally this should be placed as high up the page as possible, but that might not be \n"
+"\t\t\t\t\t\t  possible (like in my case, where it's in the footer of my site)."
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:67
+msgid "Add the spider trap page to your site"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:68
+msgid "This is the last part, add a page which will auto block all users who found their way to spidertrap.php."
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:69
+msgid ""
+"You can either find the spider.php file inside the vsf-simple-block folder or click the button below to generate one.  If you use the one from the vsf-simple-block\n"
+"\t\t\t\t\t\t  folder, you will need to manually edit the database parameters - clicking the below button will do that for you.  Save the file and then upload it to the root of your\n"
+"\t\t\t\t\t\t  web space.  Now just wait.  Any spiders which find their way onto spidertrap.php will be blocked and a record will appear in the block records table."
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:76
+msgid "References"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:77
+msgid "Spiders, Crawlers and web robots forum"
+msgstr ""
+
+#: vsf_simple_block_spidertrap_admin.php:78
+msgid "How to Defeat Bad Web Robots With Apache"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:33
+#: vsf_simple_block_user_admin.php:36
+msgid "Deleted Block Rule"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:82
+msgid ""
+"This table contains a list of filters that each hit on the website will be checked against.  Note that this is done AFTER the user rules.  \n"
+"\t\t\t\t\t\t\tUser rules are checked first, then the URL block rules.  If the hit is matched to a filter, then the hit will allowed through without any further checks.  \n"
+"\t\t\t\t\t\t\tIf the hit is not found it will be checked against the URL block rules and if matched will be bounced."
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:85
+msgid "Values placed in this table are checked *before* the URL block rules, but *after* the user rules, so it's important to think about the ordering."
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:89
+#: vsf_simple_block_url_admin.php:165
+#: vsf_simple_block_url_admin.php:248
+#: vsf_simple_block_user_admin.php:133
+#: vsf_simple_block_user_admin.php:248
+msgid "Type"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:90
+#: vsf_simple_block_url_admin.php:166
+#: vsf_simple_block_url_admin.php:249
+msgid "URL"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:91
+#: vsf_simple_block_url_admin.php:167
+#: vsf_simple_block_url_admin.php:250
+#: vsf_simple_block_user_admin.php:136
+#: vsf_simple_block_user_admin.php:191
+#: vsf_simple_block_user_admin.php:251
+#: vsf_simple_block_user_admin.php:306
+#: vsf_simple_block_user_admin.php:392
+msgid "Description"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:97
+#: vsf_simple_block_url_admin.php:173
+#: vsf_simple_block_url_admin.php:266
+msgid "Start"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:98
+#: vsf_simple_block_url_admin.php:174
+#: vsf_simple_block_url_admin.php:267
+msgid "End"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:99
+#: vsf_simple_block_url_admin.php:175
+#: vsf_simple_block_url_admin.php:267
+msgid "Anywhere"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:104
+msgid "Add New Filter URL Rule"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:156
+msgid "This table contains a list of URL rules that each hit on the website will be checked against.  If the hit is matched to a rule, then the hit will be placed in the block table and the hit will be bounced to the address given in the general settings."
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:157
+msgid "When checking the entered URL rules below, the URL will either be matched to the start, end or anywhere in the URL."
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:158
+msgid ""
+"All rules will be overridden by values in the User filter, User block rules and URL filter table.  Also if you have VSF Simple Stats installed, values in the stats filter table \n"
+"\t\t\t\t\t\t\twill not be blocked."
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:160
+msgid ""
+"Be very careful when inserting a new URL value.  Think about the URL's you visit on this site! If you add a value that matches somewhere you visit on your\n"
+"\t\t\t\t\t\t\t\tsite, you will be blocked and the only way to get back in to your site is to manually remove entries from a few tables in the database!"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:180
+msgid "Add New Block URL Rule"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:247
+#: vsf_simple_block_url_admin.php:264
+#: vsf_simple_block_user_admin.php:187
+#: vsf_simple_block_user_admin.php:205
+#: vsf_simple_block_user_admin.php:302
+#: vsf_simple_block_user_admin.php:320
+msgid "Remove"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:298
+msgid "Added New URL Rule"
+msgstr ""
+
+#: vsf_simple_block_url_admin.php:299
+msgid "Error occured during URL rule insert: "
+msgstr ""
+
+#: vsf_simple_block_url_rule.php:66
+msgid "The url rule instance rule is not correct"
+msgstr ""
+
+#: vsf_simple_block_url_rule.php:71
+msgid "The url rule instance type is not correct"
+msgstr ""
+
+#: vsf_simple_block_url_rule.php:76
+msgid "The url rule instance ip1 is not correct"
+msgstr ""
+
+#: vsf_simple_block_url_rule.php:81
+msgid "The url rule instance description is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:68
+msgid "deleted All Block Records"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:69
+msgid "An error occured during truncating block table"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:105
+msgid "Are you sure you want to clear the block records?"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:125
+msgid ""
+"This table contains a list of filters that each hit on the website will be checked against.  If the hit is matched to a filter, then the hit will \n"
+"\t\t\t\t\t\t\tbe allowed through without any further checks.  If a match is not found it will be checked against the block user rules and if matched will be bounced."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:127
+msgid ""
+"Values placed in this table are checked *before* the block user rules, so it's important to think about the ordering.  If there's a block rule like \n"
+"\t\t\t\t\t\t\tbrowser summary containing \"www\" and a block filter containing \"www.google.com\" and the hit browser summary is \"www.google.com\" it will be filtered \n"
+"\t\t\t\t\t\t\tand not blocked as the filter will be applied first."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:134
+#: vsf_simple_block_user_admin.php:249
+msgid "Value"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:135
+#: vsf_simple_block_user_admin.php:250
+msgid "IP to (Range)"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:140
+#: vsf_simple_block_user_admin.php:241
+#: vsf_simple_block_user_admin.php:255
+#: vsf_simple_block_user_admin.php:389
+msgid "IP Address"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:140
+#: vsf_simple_block_user_admin.php:242
+#: vsf_simple_block_user_admin.php:255
+msgid "Host Address"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:140
+#: vsf_simple_block_user_admin.php:190
+#: vsf_simple_block_user_admin.php:243
+#: vsf_simple_block_user_admin.php:255
+#: vsf_simple_block_user_admin.php:305
+#: vsf_simple_block_user_admin.php:391
+msgid "Browser Summary"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:144
+msgid "Add New Filter User Rule"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:188
+#: vsf_simple_block_user_admin.php:303
+#: vsf_simple_block_user_admin.php:390
+msgid "Host"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:189
+#: vsf_simple_block_user_admin.php:304
+msgid "IP"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:228
+msgid ""
+"This table contains a list of user rules that each hit on the website will be checked against.  If the hit is matched to a user rule, then the hit will \n"
+"\t\t\t\t\t\tbe placed in the block table and the hit will be bounced to the address given in the general settings."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:230
+msgid ""
+"User rules are added as either an IP based rule, Host based rule or Browser summary rule.  An IP rule will check hits against all IP's added to\n"
+"\t\t\t\t\t\t this table.  IP's can be added as an individual IP or a range.  Host based rules look at the values in the table and basically does a contains match.  \n"
+"\t\t\t\t\t\t So if your host is \"www.007guard.com\" and there is a host rule \"www\", the hit will be bounced as \"www\" is contained in the host.  Browser summary rules \n"
+"\t\t\t\t\t\t are very similar to Host rules.  Add in a keyword or pattern for example \"mozilla\" and all browser summaries that contain that string will be bounced."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:234
+msgid ""
+"All rules will be overridden by values in the filter user rules table.  Also if you have VSF Simple Stats installed, values in the stats filter \n"
+"\t\t\t\t\t\t table will not be blocked."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:236
+msgid ""
+"Be very careful when inserting a new value.  Think about your own IP, Host and Browser summary as if you add a value that matches yourself, \n"
+"\t\t\t\t\t\t the only way to get back in to your site is to manually remove entries from a few tables in the database!"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:240
+msgid "Your details"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:259
+msgid "Add New Block User Rule"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:345
+msgid "Blocks"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:347
+msgid "This table contains a list of hits that have been blocked.  After 500 records, the last record will be deleted when a new record is added."
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:348
+msgid "Clear All Block Records"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:388
+msgid "Date Blocked"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:400
+msgid "H:i d-m-Y"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:443
+#: vsf_simple_block_user_admin.php:444
+msgid "Invalid IP!"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:454
+#: vsf_simple_block_user_admin.php:478
+msgid "Added New Rule"
+msgstr ""
+
+#: vsf_simple_block_user_admin.php:455
+#: vsf_simple_block_user_admin.php:479
+msgid "Error occured during browser summary rule insert: "
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:76
+msgid "The rule instance rule is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:81
+msgid "The rule instance type is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:86
+msgid "The rule instance ip1 is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:91
+msgid "The rule instance ip2 is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:96
+msgid "The rule instance host is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:101
+msgid "The rule instance browser keyword is not correct"
+msgstr ""
+
+#: vsf_simple_block_user_rule.php:106
+msgid "The rule instance description is not correct"
+msgstr ""
